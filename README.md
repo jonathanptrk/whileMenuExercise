@@ -16,7 +16,7 @@ Dessa forma o sistema ficará em execução, evitando ter que ser reiniciado. */
         package Testes;
         import java.util.Scanner;
         
-        public class exercicioWhile2 {
+        public class ExercicioWhile2 {
             public static void main(String[] args) {
 
             Scanner teclado = new Scanner(System.in);        
